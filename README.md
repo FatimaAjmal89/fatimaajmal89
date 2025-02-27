@@ -1,4 +1,4 @@
-<h3 align="center">A passionate developer from Pakistan</h3>👋
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 I'm **Fatima Ajmal**, a passionate developer and artist from Karachi, Pakistan. I love creating innovative solutions and visual experiences through code and design.
 
