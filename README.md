@@ -16,7 +16,7 @@ I am a developer with a strong interest in web development and design. I enjoy w
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatima ajmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima ajmal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/fatima-ajmal-925a93251" target="blank"><img align="center"
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
