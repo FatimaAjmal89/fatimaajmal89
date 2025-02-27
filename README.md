@@ -1,4 +1,4 @@
-## Hi there! 👋
+<h3 align="center">A passionate developer from Pakistan</h3>👋
 
 I'm **Fatima Ajmal**, a passionate developer and artist from Karachi, Pakistan. I love creating innovative solutions and visual experiences through code and design.
 
@@ -6,36 +6,19 @@ I'm **Fatima Ajmal**, a passionate developer and artist from Karachi, Pakistan. 
 
 I am a developer with a strong interest in web development and design. I enjoy working on diverse projects that challenge my skills and push my creativity. Currently, I am exploring various technologies and building projects that reflect my learning journey.
 
-## Skills & Technologies
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaajmal89&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaajmal89" /> </p>
 
-css,html,pycharm,flask
+- 🔭 I’m currently working on **python webapps**
 
-## Top Projects
+- 🌱 I’m currently learning **Python**
 
-- [**Todo-app**](https://github.com/FatimaAjmal89/Todo-app) - A simple task management application built with Python. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
-- [**my_todo_app**](https://github.com/FatimaAjmal89/my_todo_app) - A minimalistic todo app. ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
-- [**Gym-membership-website**](https://github.com/FatimaAjmal89/Gym-membership-website) - A website for managing gym memberships. ⭐ 0 | Language: CSS | Forks: 0 | Issues: 0
-- [**flaskwebpages**](https://github.com/FatimaAjmal89/flaskwebpages) - A collection of web pages built using Flask. ⭐ 0 | Language: CSS | Forks: 0 | Issues: 0
-- [**Python1**](https://github.com/FatimaAjmal89/Python1) - Python programming exercises and projects. ⭐ 0 | Language: N/A | Forks: 0 | Issues: 0
+- 📫 How to reach me **Fatimaajmal899@gmail.com**
 
-## GitHub Stats
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fatima ajmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima ajmal" height="30" width="40" /></a>
+</p>
 
-🔹 **Public Repositories:** 6  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-
-## Recent Activity
-
-1. Created a new [Todo-app](https://github.com/FatimaAjmal89/Todo-app).  
-2. Pushed updates to [my_todo_app](https://github.com/FatimaAjmal89/my_todo_app).  
-3. Created [Gym-membership-website](https://github.com/FatimaAjmal89/Gym-membership-website).  
-4. Implemented features in [flaskwebpages](https://github.com/FatimaAjmal89/flaskwebpages).  
-5. Committed changes to [Python1](https://github.com/FatimaAjmal89/Python1).
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for updates!
-
-## Connect with Me
-
-{}
