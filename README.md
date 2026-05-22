@@ -1,47 +1,48 @@
-<h2 align="center">Hi 👋! I'm Fatimah Ajmal</h2>
-<h3 align="center">Software Engineer from Karachi, Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Fatimah Ajmal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Building+Projects+with+Python+%F0%9F%90%8D;Spring+Boot+%7C+Flask+%7C+Machine+Learning;Turning+Ideas+into+Code" />
+</p>
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatimaAjmal89&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="stats graph" />
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/fatima-ajmal-925a93251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:fatimaajmal899@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FatimaAjmal89&layout=compact&theme=dracula&hide_border=false" height="160" alt="languages graph" />
-</div>
+## 🛠️ Tech Stack & Tools
 
----
-
-<h3 align="center">Languages & Frameworks</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="15" />
+### 💻 Languages & Backend Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring boot logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-</div>
+</p>
+
+### 💾 Databases & Frontend Essentials
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+</p>
+
+### 🎨 Creative & Design Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+</p>
 
 ---
 
-<h3 align="center">Connect with Me</h3>
+##  Activity & Stats
 
-<div align="center">
-  <a href="mailto:fatimaajmal899@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/fatima-ajmal-925a93251/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/FatimaAjmal89">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FatimaAjmal89&theme=dracula&bg_color=1e1e2e&hide_border=true" width="100%" alt="activity graph" />
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=FatimaAjmal89&color=blue&style=flat-square" alt="profile views" />
+</p>
